@@ -3,7 +3,7 @@
 
 #include <stddef.h>
 #include <stdio.h>
-#include <stdlib>
+#include <stdlib.h>
 #include <string.h>
 
 /* Data structures */
